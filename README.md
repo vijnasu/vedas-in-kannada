@@ -1,5 +1,6 @@
-# Saswara Rigveda Samhita
-## Ashtaka
+# Veda Samhitas
+
+## Rigveda Ashtaka
 
 | Simple  Mantra Pages      | Detailed Mantra Pages |
 | ----------- | ----------- |
@@ -12,7 +13,7 @@
 | [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Simple).html) | [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Detail).html) |
 | [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html) | [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Detail).html) |
 
-## Mandala
+## [Rigveda Mandala](Kannada/Mandala/Mandalas-1-10-kannada(Simple).html)
 
 | Simple  Mantra Pages      | Detailed Mantra Pages | Audio files |
 | ----------- | ----------- | ----------- |
