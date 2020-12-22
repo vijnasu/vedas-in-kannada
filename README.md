@@ -5,7 +5,7 @@
 
 | ಸರಳ ಮಂತ್ರ ಪುಟಗಳು      | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು | ಆಲಿಸಿರಿ  |
 | ----------- | ----------- | ----------- |
-| [ಹತ್ತೂ ಮಂಡಲಗಳ ಸಂಗ್ರಹ](Rigveda/Mandala/Mandalas-1-10-kannada(Simple).html) | | |
+| | [ಹತ್ತೂ ಮಂಡಲಗಳ ಸಂಗ್ರಹ](Rigveda/Mandala/Mandalas-1-10-kannada(Simple).html) | |
 | [ಮಂಡಲ-೧](Rigveda/Mandala/Mandala-1-kannada(Simple).html) | [ಮಂಡಲ-೧](Rigveda/Mandala/Mandala-1-kannada(Detail).html) | [ಮಂಡಲ-೧](https://www.aurobindo.ru/workings/matherials/rigveda/audio_01.htm) |
 | [ಮಂಡಲ-೨](Rigveda/Mandala/Mandala-2-kannada(Simple).html) | [ಮಂಡಲ-೨](Rigveda/Mandala/Mandala-2-kannada(Detail).html) | [ಮಂಡಲ-೨](https://www.aurobindo.ru/workings/matherials/rigveda/audio_02.htm) |
 | [ಮಂಡಲ-೩](Rigveda/Mandala/Mandala-3-kannada(Simple).html) | [ಮಂಡಲ-೩](Rigveda/Mandala/Mandala-3-kannada(Detail).html) | [ಮಂಡಲ-೩](https://www.aurobindo.ru/workings/matherials/rigveda/audio_03.htm) |
