@@ -59,6 +59,8 @@
 
 ೫. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ  ಜೈಮಿನೀಯ ಉಪನಿಷದ್ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Jaiminiya_Upanishad_Brahmana_Kannada.html)
 
+೬. [ಕನ್ನಡದಲ್ಲಿ ಯಜುರ್ವೇದದ ಕಾಠಕ ಶಾಖೆಯ ಕಠಕ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Kataka_Brahmana_Kannada.html)
+
 
 ### ಕೃತಜ್ಞತೆ
 
