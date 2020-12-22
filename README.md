@@ -31,6 +31,9 @@
 | [ಅಷ್ಟಕ-೭](Rigveda/Ashtaka/Ashtaka-7-kannada(Simple).html) | [ಅಷ್ಟಕ-೭](Rigveda/Ashtaka/Ashtaka-7-kannada(Detail).html) |
 | [ಅಷ್ಟಕ-೮](Rigveda/Ashtaka/Ashtaka-8-kannada(Simple).html) | [ಅಷ್ಟಕ-೮](Rigveda/Ashtaka/Ashtaka-8-kannada(Detail).html) |
 
+## ಯಜುರ್ವೇದ
+
+[ಕನ್ನಡದಲ್ಲಿ ಮೈತ್ರಾಯಣೀ ಶಾಖೆಯ ಕೃಷ್ಣಯಜುರ್ವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Yajurveda/Krishna-Yajurveda-Maitrayani-Samhita.html)
 
 ## ಸಾಮವೇದ
 
