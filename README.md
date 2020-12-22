@@ -61,6 +61,7 @@
 
 ೬. [ಕನ್ನಡದಲ್ಲಿ ಯಜುರ್ವೇದದ ಕಾಠಕ ಶಾಖೆಯ ಕಠಕ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Kataka_Brahmana_Kannada.html)
 
+೭. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದದ ತೈತ್ತಿರೀಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Taittiriya_Brahmana_Kannada.html)
 
 ### ಕೃತಜ್ಞತೆ
 
