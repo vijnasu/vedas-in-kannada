@@ -49,7 +49,7 @@
 
 ## ಬ್ರಾಹ್ಮಣಗಳು
 
-೧. [ಕನ್ನಡದಲ್ಲಿ ಋಗ್ವೇದದ ಐತರೇಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Shatapatha_Brahmana_Kannada.html)
+೧. [ಕನ್ನಡದಲ್ಲಿ ಋಗ್ವೇದದ ಐತರೇಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Aitareya_Brahmana_Kannada.html)
 
 ೨. [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದದ ಶತಪಥ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Shatapatha_Brahmana_Kannada.html)
 
