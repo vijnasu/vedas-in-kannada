@@ -55,6 +55,8 @@
 
 ೩. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ ಛಾಂದೋಗ್ಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Chandogya_Brahmana_Kannada.html)
 
+೪. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ ತಲವಕಾರ ಶಾಖೆಯ  ಜೈಮಿನೀಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Jaiminiya_Talavakara_Brahmana_Kannada.html)
+
 ### ಕೃತಜ್ಞತೆ
 
 ೧. [https://sanskritdocuments.org/](https://sanskritdocuments.org/) ಇವರ ಬೇರೆ ಬೇರೆ ಲಿಪಿಯಲ್ಲಿರುವ ಕಡತಗಳು ನಮಗೆ ಬೇಕಾದ ಲಿಪಿಗೆ ಪರಿವರ್ತಿಸಿಕೊಳ್ಳಲು ಸಹಕಾರಿಯಾಗಿವೆ. ಅವರ ಕೆಲಸ ಶ್ಲಾಘನೀಯ.
