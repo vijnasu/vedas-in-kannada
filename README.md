@@ -33,7 +33,8 @@
 
 ## ಯಜುರ್ವೇದ
 
-[ಕನ್ನಡದಲ್ಲಿ ಮೈತ್ರಾಯಣೀ ಶಾಖೆಯ ಕೃಷ್ಣಯಜುರ್ವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Yajurveda/Krishna-Yajurveda-Maitrayani-Samhita.html)
+೧. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದ ಶಾಖೆಯ ತೈತ್ತಿರೀಯ  ಸಂಹಿತೆ (ಸಸ್ವರ)](Yajurveda/Krishna-Yajurveda-Taittiriya-Samhita.html)
+೨. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದ ಶಾಖೆಯ ಮೈತ್ರಾಯಣೀ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Yajurveda/Krishna-Yajurveda-Maitrayani-Samhita.html)
 
 ## ಸಾಮವೇದ
 
@@ -41,9 +42,13 @@
 
 ## ಅಥರ್ವವೇದ
 
-[ಕನ್ನಡದಲ್ಲಿ ಪೈಪ್ಪಲಾದ ಶಾಖೆಯ ಅಥರ್ವವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Atharva/Atharva-Paippalaada-Samhita-Niswara.html)
+೧. [ಕನ್ನಡದಲ್ಲಿ ಪೈಪ್ಪಲಾದ ಶಾಖೆಯ ಅಥರ್ವವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Atharva/Atharva-Paippalaada-Samhita-Niswara.html)
+೨. [ಕನ್ನಡದಲ್ಲಿ ಶೌನಕ ಶಾಖೆಯ ಅಥರ್ವವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Atharva/Atharva-Shaunaka-Samhita-Niswara.html)
 
-[ಕನ್ನಡದಲ್ಲಿ ಶೌನಕ ಶಾಖೆಯ ಅಥರ್ವವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Atharva/Atharva-Shaunaka-Samhita-Niswara.html)
+## ಬ್ರಾಹ್ಮಣಗಳು
+
+೧. [ಕನ್ನಡದಲ್ಲಿ ಋಗ್ವೇದದ ಐತರೇಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Shatapatha_Brahmana_Kannada.html)
+೨. [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದದ ಶತಪಥ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Shatapatha_Brahmana_Kannada.html)
 
 ### ಕೃತಜ್ಞತೆ
 
