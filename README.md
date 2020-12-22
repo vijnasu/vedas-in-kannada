@@ -39,6 +39,7 @@
 ## ಅಥರ್ವವೇದ
 
 [ಕನ್ನಡದಲ್ಲಿ ಪೈಪ್ಪಲಾದ ಶಾಖೆಯ ಅಥರ್ವವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Atharva/Atharva-Paippalaada-Samhita-Niswara.html)
+[ಕನ್ನಡದಲ್ಲಿ ಶೌನಕ ಶಾಖೆಯ ಅಥರ್ವವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Atharva/Atharva-Shaunaka-Samhita-Niswara.html)
 
 ### ಕೃತಜ್ಞತೆ
 
