@@ -53,6 +53,8 @@
 
 ೨. [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದದ ಶತಪಥ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Shatapatha_Brahmana_Kannada.html)
 
+೩. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ ಛಾಂದೋಗ್ಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Chandogya_Brahmana_Kannada.html)
+
 ### ಕೃತಜ್ಞತೆ
 
 ೧. [https://sanskritdocuments.org/](https://sanskritdocuments.org/) ಇವರ ಬೇರೆ ಬೇರೆ ಲಿಪಿಯಲ್ಲಿರುವ ಕಡತಗಳು ನಮಗೆ ಬೇಕಾದ ಲಿಪಿಗೆ ಪರಿವರ್ತಿಸಿಕೊಳ್ಳಲು ಸಹಕಾರಿಯಾಗಿವೆ. ಅವರ ಕೆಲಸ ಶ್ಲಾಘನೀಯ.
