@@ -53,15 +53,15 @@
 
 ೨. [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದದ ಶತಪಥ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Shatapatha_Brahmana_Kannada.html)
 
-೩. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ ಛಾಂದೋಗ್ಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Chandogya_Brahmana_Kannada.html)
+೩. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದದ ತೈತ್ತಿರೀಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Taittiriya_Brahmana_Kannada.html)
 
-೪. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ ತಲವಕಾರ ಶಾಖೆಯ  ಜೈಮಿನೀಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Jaiminiya_Talavakara_Brahmana_Kannada.html)
+೪. [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದದ ಕಾಠಕ ಶಾಖೆಯ ಕಠಕ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Kataka_Brahmana_Kannada.html)
 
-೫. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ  ಜೈಮಿನೀಯ ಉಪನಿಷದ್ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Jaiminiya_Upanishad_Brahmana_Kannada.html)
+೫. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ ಛಾಂದೋಗ್ಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Chandogya_Brahmana_Kannada.html)
 
-೬. [ಕನ್ನಡದಲ್ಲಿ ಯಜುರ್ವೇದದ ಕಾಠಕ ಶಾಖೆಯ ಕಠಕ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Kataka_Brahmana_Kannada.html)
+೬. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ ತಲವಕಾರ ಶಾಖೆಯ  ಜೈಮಿನೀಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Jaiminiya_Talavakara_Brahmana_Kannada.html)
 
-೭. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದದ ತೈತ್ತಿರೀಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Taittiriya_Brahmana_Kannada.html)
+೭. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ  ಜೈಮಿನೀಯ ಉಪನಿಷದ್ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Jaiminiya_Upanishad_Brahmana_Kannada.html)
 
 ೮. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ ವಂಶ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Vamsha_Brahmana_Kannada.html)
 
