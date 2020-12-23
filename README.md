@@ -33,9 +33,11 @@
 
 ## ಯಜುರ್ವೇದ
 
-೧. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದ ಶಾಖೆಯ ತೈತ್ತಿರೀಯ  ಸಂಹಿತೆ (ಸಸ್ವರ)](Yajurveda/Krishna-Yajurveda-Taittiriya-Samhita.html)
+೧. [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದ ಶಾಖೆಯ ಮಾಧ್ಯಂದಿನ ಸಂಹಿತೆ (ಸಸ್ವರ)](Yajurveda/Shukla-Yajurveda-Maadhyandina-Samhita.html)
 
-೨. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದ ಶಾಖೆಯ ಮೈತ್ರಾಯಣೀ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Yajurveda/Krishna-Yajurveda-Maitrayani-Samhita.html)
+೨. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದ ಶಾಖೆಯ ತೈತ್ತಿರೀಯ  ಸಂಹಿತೆ (ಸಸ್ವರ)](Yajurveda/Krishna-Yajurveda-Taittiriya-Samhita.html)
+
+೩. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದ ಶಾಖೆಯ ಮೈತ್ರಾಯಣೀ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Yajurveda/Krishna-Yajurveda-Maitrayani-Samhita.html)
 
 ## ಸಾಮವೇದ
 
