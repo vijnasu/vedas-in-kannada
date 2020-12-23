@@ -38,7 +38,7 @@
 | [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದ ಶಾಖೆಯ ವಾಜಸನೇಯಿ ಮಾಧ್ಯಂದಿನ ಸಂಹಿತೆ (ಸಸ್ವರ)](Yajurveda/Shukla-Yajurveda-Maadhyandina-Samhita.html) | [ಮಾಧ್ಯಂದಿನ  ಸಂಹಿತಾ ಶ್ರವಣ](http://vedicheritage.gov.in/hi/samhitas/yajurveda/vajasneyi-madhyandina-samhita/) |
 | [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದ ಶಾಖೆಯ ವಾಜಸನೇಯಿ ಕಾಣ್ವ ಸಂಹಿತೆ (ಸಸ್ವರ)](Yajurveda/Shukla-Yajurveda-Kaanva-Samhita.html) | [ಕಾಣ್ವ  ಸಂಹಿತಾ ಶ್ರವಣ](http://vedicheritage.gov.in/samhitas/yajurveda/vajasaneyi-kanva-samhita/) |
 | [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದ ಶಾಖೆಯ ತೈತ್ತಿರೀಯ  ಸಂಹಿತೆ (ಸಸ್ವರ)](Yajurveda/Krishna-Yajurveda-Taittiriya-Samhita.html) | [ತೈತ್ತಿರೀಯ  ಸಂಹಿತಾ ಶ್ರವಣ](http://vedicheritage.gov.in/samhitas/yajurveda/krishna-yajurveda/taittiriya-samhita/) |
-| [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದ ಶಾಖೆಯ ಮೈತ್ರಾಯಣೀ ಸಂಹಿತೆ (ನಿಸ್ವರ)] (Yajurveda/Shukla-Yajurveda-Kaanva-Samhita.html) |
+| [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದ ಶಾಖೆಯ ಮೈತ್ರಾಯಣೀ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Yajurveda/Shukla-Yajurveda-Kaanva-Samhita.html) |
 
 ## ಸಾಮವೇದ
 
