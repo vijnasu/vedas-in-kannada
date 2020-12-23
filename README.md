@@ -63,6 +63,8 @@
 
 ೭. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದದ ತೈತ್ತಿರೀಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Taittiriya_Brahmana_Kannada.html)
 
+೮. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ ವಂಶ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Vamsha_Brahmana_Kannada.html)
+
 ### ಕೃತಜ್ಞತೆ
 
 ೧. [https://sanskritdocuments.org/](https://sanskritdocuments.org/) ಇವರ ಬೇರೆ ಬೇರೆ ಲಿಪಿಯಲ್ಲಿರುವ ಕಡತಗಳು ನಮಗೆ ಬೇಕಾದ ಲಿಪಿಗೆ ಪರಿವರ್ತಿಸಿಕೊಳ್ಳಲು ಸಹಕಾರಿಯಾಗಿವೆ. ಅವರ ಕೆಲಸ ಶ್ಲಾಘನೀಯ.
