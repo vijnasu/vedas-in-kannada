@@ -68,6 +68,11 @@
 
 ೮. [ಕನ್ನಡದಲ್ಲಿ ಸಾಮವೇದದ ವಂಶ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Vamsha_Brahmana_Kannada.html)
 
+೯. [ಕನ್ನಡದಲ್ಲಿ ಅಥರ್ವವೇದದ ಗೋಪಥ ಬ್ರಾಹ್ಮಣ  (ನಿಸ್ವರ)](Brahmanas/Gopatha_Brahmana_Kannada.html)
+
+೧೦. [ಕನ್ನಡದಲ್ಲಿ ಅಥರ್ವವೇದದ ಗೋಪಥ ಬ್ರಾಹ್ಮಣ ಶಾಂಕರ  ಭಾಷ್ಯ (ನಿಸ್ವರ)](Brahmanas/Gopatha_Brahmana_Shaankara_Bhashya_Kannada.html)
+
+
 ### ಕೃತಜ್ಞತೆ
 
 ೧. [https://sanskritdocuments.org/](https://sanskritdocuments.org/) ಇವರ ಬೇರೆ ಬೇರೆ ಲಿಪಿಯಲ್ಲಿರುವ ಕಡತಗಳು ನಮಗೆ ಬೇಕಾದ ಲಿಪಿಗೆ ಪರಿವರ್ತಿಸಿಕೊಳ್ಳಲು ಸಹಕಾರಿಯಾಗಿವೆ. ಅವರ ಕೆಲಸ ಶ್ಲಾಘನೀಯ.
