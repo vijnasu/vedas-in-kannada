@@ -60,7 +60,9 @@
 
 ೨. [ಕನ್ನಡದಲ್ಲಿ ಋಗ್ವೇದದ  ಕೌಶೀತಕೀ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Kaushitaki_Brahmana_Kannada.html)
  
-೩. [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದದ ಶತಪಥ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Shatapatha_Brahmana_Kannada.html)
+೩. [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದದ ಶತಪಥ ಬ್ರಾಹ್ಮಣದ ವಿಷಯಾನುಕ್ರಮಣಿಕೆ (ನಿಸ್ವರ)](Brahmanas/Shatapatha_Brahmana_Vishayanukramanike_Kannada.html)
+
+  [ಕನ್ನಡದಲ್ಲಿ ಶುಕ್ಲಯಜುರ್ವೇದದ ಶತಪಥ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Shatapatha_Brahmana_Kannada.html)
 
 ೪. [ಕನ್ನಡದಲ್ಲಿ ಕೃಷ್ಣಯಜುರ್ವೇದದ ತೈತ್ತಿರೀಯ ಬ್ರಾಹ್ಮಣ (ನಿಸ್ವರ)](Brahmanas/Taittiriya_Brahmana_Kannada.html)
 
