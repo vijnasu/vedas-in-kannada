@@ -6,6 +6,7 @@
 ## ಋಗ್ವೇದ ಮಂಡಲ ಕ್ರಮ
 
 > [ಋಗ್ವೇದದ ಸಂಹಿತೆ ](Rigveda/Mandala/Mandalas-1-10-kannada(Simple).html)
+
 > [ಋಗ್ವೇದದ ಖಿಲ ಮಂತ್ರಗಳ ಸಂಗ್ರಹ](Rigveda/Rigveda_Khilaani_Kannada.html)
  
 |ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು | ಆಲಿಸಿರಿ  |
