@@ -77,11 +77,11 @@
 
 ### ಕೃತಜ್ಞತೆ
 
-೧. [https://sanskritdocuments.org/](https://sanskritdocuments.org/) ಇವರ ಬೇರೆ ಬೇರೆ ಲಿಪಿಯಲ್ಲಿರುವ ಕಡತಗಳು ನಮಗೆ ಬೇಕಾದ ಲಿಪಿಗೆ ಪರಿವರ್ತಿಸಿಕೊಳ್ಳಲು ಸಹಕಾರಿಯಾಗಿವೆ. ಅವರ ಕೆಲಸ ಶ್ಲಾಘನೀಯ.
+೧. [https://aksharamukha.appspot.com/](https://aksharamukha.appspot.com/) ವಿನೋದರ ಅಕ್ಷರಮುಖ ಸಾಫ್ಟ್ವೇರ್ ಲಿಪ್ಯಂತರಣಕ್ಕೆ ಸಹಕಾರಿ. ಅವರನ್ನು ಮುಕ್ತ ಕಂಠದಿಂದ ಹೊಗಳುವುದು ನಮ್ಮ ಕರ್ತವ್ಯ.
 
 ೨. [http://gretil.sub.uni-goettingen.de/](http://gretil.sub.uni-goettingen.de/) ಇವರು ತಮ್ಮದೇ ಆದ ಆಂಗ್ಲ ಲಿಪಿಯಲ್ಲಿ ಬಹುತೇಕ ವೈಧಿಕ ಸಾಹಿತ್ಯವನ್ನು ಸಂಗ್ರಹಿಸಿರುತ್ತಾರೆ. ಅವರಿಗೆ ನಮ್ಮ ಕೃತಜ್ಞತೆಗಳು.
 
-೩. [https://aksharamukha.appspot.com/](https://aksharamukha.appspot.com/) ವಿನೋದರ ಅಕ್ಷರಮುಖ ಸಾಫ್ಟ್ವೇರ್ ಲಿಪ್ಯಂತರಣಕ್ಕೆ ಸಹಕಾರಿ. ಅವರನ್ನು ಮುಕ್ತ ಕಂಠದಿಂದ ಹೊಗಳುವುದು ನಮ್ಮ ಕರ್ತವ್ಯ.
+೩. [https://daithal.github.io/saswara-rigveda/](https://daithal.github.io/saswara-rigveda/) ಕನ್ನಡದಲ್ಲಿ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತೆಯ ಸ್ವರಗಳನ್ನು ಸರಿಪಡಿಸಿ ಸ್ವರಿತಗಳನ್ನು ನಮೂದಿಸಿ ಅಚ್ಚುಕಟ್ಟಾಗಿಸಿದ ಮಿತ್ರ ಶ್ರೀ ದಯಾನಂದ ಐತಾಳರಿಗೆ ವಂದನೆಗಳು.
 
-೪. [https://daithal.github.io/saswara-rigveda/](https://daithal.github.io/saswara-rigveda/) ಕನ್ನಡದಲ್ಲಿ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತೆಯ ಸ್ವರಗಳನ್ನು ಸರಿಪಡಿಸಿ ಸ್ವರಿತಗಳನ್ನು ನಮೂದಿಸಿ ಅಚ್ಚುಕಟ್ಟಾಗಿಸಿದ ಮಿತ್ರ ಶ್ರೀ ದಯಾನಂದ ಐತಾಳರಿಗೆ ವಂದನೆಗಳು.
+
 
