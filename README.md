@@ -54,7 +54,12 @@
 
 ೧. [ಕನ್ನಡದಲ್ಲಿ ಪೈಪ್ಪಲಾದ ಶಾಖೆಯ ಅಥರ್ವವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Atharva/Atharva-Paippalaada-Samhita-Niswara.html)
 
-೨. [ಕನ್ನಡದಲ್ಲಿ ಶೌನಕ ಶಾಖೆಯ ಅಥರ್ವವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Atharva/Atharva-Shaunaka-Samhita-Niswara.html)
+೨. [ಕನ್ನಡದಲ್ಲಿ ಶೌನಕ ಶಾಖೆಯ ಅಥರ್ವವೇದ ಸಂಹಿತೆ (ನಿಸ್ವರ)](Atharva/Shaunaka/Atharva-Shaunaka-Samhita-Niswara-Kannada.html)
+
+|ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | 
+| ----------- | 
+|[ಶೌನಕ ಕಾಣ್ಡ-೧ (ಸಸ್ವರ)](Atharva/Shaunaka/Atharva-Shaunaka-Samhita-Saswara-Khanda-001-Kannada.html) |
+
 
 ## ಬ್ರಾಹ್ಮಣಗಳು
 
